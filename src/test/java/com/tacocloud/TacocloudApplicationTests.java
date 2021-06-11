@@ -8,6 +8,9 @@ class TacocloudApplicationTests {
 
     @Test
     void contextLoads() {
+
+        // this is a 测试类
+
     }
 
 }
